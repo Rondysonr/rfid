@@ -1,6 +1,6 @@
 # 📲 ESP32 + RFID + Bluetooth: Controle de Acesso com Notificação para App Android
 
-Este projeto implementa um sistema de **controle de acesso RFID** utilizando o **ESP32**, que autentica usuários por meio de tags RFID e envia notificações com nome, UID e hora atual via **Bluetooth clássico (SPP)** para um **aplicativo Android**. A sincronização de data e hora é feita por NTP via Wi-Fi.
+Este projeto implementa um sistema de **controle de acesso RFID** utilizando o **ESP32**, que autentica usuários por meio de tags RFID e envia notificações com nome, UID e hora atual via **Bluetooth clássico (SPP)** para um **aplicativo Android**. A sincronização de data e hora é feita por NTP via Wi-Fi.  
 
 O arquivo rfid.zip é referente a interface mobile.
 ---
